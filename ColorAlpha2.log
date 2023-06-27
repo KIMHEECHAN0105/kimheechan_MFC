@@ -1,0 +1,88 @@
+﻿  pch.cpp
+  CCHANGECOLVAL.cpp
+  ChildFrm.cpp
+  CINPUTONE.cpp
+  CINRGB.cpp
+  CJUSTMINMAX.cpp
+  ColorAlpha2.cpp
+  ColorAlpha2Doc.cpp
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(429,49): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(430,49): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(431,49): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(535,18): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(569,44): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(894,38): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(897,38): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(900,38): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(931,61): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(933,61): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(935,61): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(1157,54): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(1161,55): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(1165,55): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(1209,51): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(1210,57): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(1211,73): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(1213,51): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(1214,58): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(1215,76): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(1217,51): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(1218,58): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(1219,74): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(1590,69): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(1591,69): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(1819,13): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(2267,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(2268,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(2269,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(2531,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(2532,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(2533,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(2794,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(2795,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(2796,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(3062,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(3063,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(3064,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(3326,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(3327,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(3328,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(3593,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(3594,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(3595,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(3858,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(3859,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(3860,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(4122,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(4123,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(4124,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(4386,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(4387,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(4388,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(4652,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(4653,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(4654,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(4916,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(4917,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(4918,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(5180,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(5181,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(5182,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(5449,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(5450,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(5451,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(5721,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(5722,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(5723,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(5997,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(5998,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\ColorAlpha2Doc.cpp(5999,24): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ColorAlpha2View.cpp
+  CRGBMINMAXWANT.cpp
+  CROTATE.cpp
+  MainFrm.cpp
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 612 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  ColorAlpha2.vcxproj -> C:\Users\user\OneDrive\바탕 화면\ColorAlpha2\x64\Release\ColorAlpha2.exe
